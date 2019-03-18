@@ -1,0 +1,9 @@
+</br
+  mostra "Olá mundo! tudo bem?";
+  
+  se($carro == 'gol'):
+    mostra "O carro é um gol";
+  senao:
+    mostra "O carro não é um gol";
+  fim;
+br/>
